@@ -6,8 +6,8 @@
     - Detectar necesidades principales (inventario, clientes frecuentes, ventas).
     - Recabar datos básicos (productos principales, proveedores, tipo de clientes).
 2. Levantamiento de procesos actuales:
-    - Cómo registran ventas.
-    - Cómo controlan inventario.
+    - [[Cómo registran ventas]].
+    - [[Cómo controlan inventario]].
     - Cómo se comunican con clientes.
 3. Definir **alcance del proyecto Jam**:
     - Sitio web: catálogo, contacto, ubicación.
