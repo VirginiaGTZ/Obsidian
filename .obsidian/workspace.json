@@ -11,13 +11,32 @@
             "id": "543560c416816063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pitch-jam/Pitch Jam.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Pitch Jam"
+            }
+          },
+          {
+            "id": "31f381f5b4315b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pitch-jam/Plan de Trabajo para Pitch Jam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan de Trabajo para Pitch Jam"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "70f86cf8c3fafd49",
@@ -170,11 +190,13 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "543560c416816063",
+  "active": "31f381f5b4315b20",
   "lastOpenFiles": [
+    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
     "pitch-jam/Pitch Jam.md",
     "pitch-jam"
   ]
