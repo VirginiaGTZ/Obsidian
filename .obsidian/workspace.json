@@ -11,10 +11,14 @@
             "id": "7866e1c712769a94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cómo registran ventas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Cómo registran ventas"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -176,10 +181,11 @@
   "active": "7866e1c712769a94",
   "lastOpenFiles": [
     "Cómo controlan inventario.md",
+    "Cómo registran ventas.md",
+    "Cómo se comunican con clientes..md",
+    "Pasted image 20250827230130.png",
     "Pasted image 20250827230206.png",
     "pitch-jam/Plan de Trabajo para Pitch Jam.md",
-    "Cómo registran ventas.md",
-    "Pasted image 20250827230130.png",
     "pitch-jam/Pitch Jam.md",
     "pitch-jam"
   ]

@@ -1,0 +1,1 @@
+No existe una propaganda o panfleto oficial, solo el registro de google maps como "Refaccionaria Neria Motos", ya que aun esta en formación la identidad del negocio, sin embargo la propuesta es "Refaccionaria Neria motos y Taller Fantasmón Bikers"

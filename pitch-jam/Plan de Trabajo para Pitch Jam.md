@@ -8,7 +8,7 @@
 2. Levantamiento de procesos actuales:
     - [[Cómo registran ventas]].
     - [[Cómo controlan inventario]].
-    - Cómo se comunican con clientes.
+    - [[Cómo se comunican con clientes.]]
 3. Definir **alcance del proyecto Jam**:
     - Sitio web: catálogo, contacto, ubicación.
     - CRM: registro clientes + puntos.
