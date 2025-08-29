@@ -10,7 +10,7 @@
     - [[Cómo controlan inventario]].
     - [[Cómo se comunican con clientes.]]
 3. Definir **alcance del proyecto Jam**:
-    - Sitio web: catálogo, contacto, ubicación.
+    - Sitio web: [[catálogo]], contacto, ubicación.
     - CRM: registro clientes + puntos.
     - ERP: inventario básico + compras.
 4. Documentar requerimientos en un breve documento (máximo 2 páginas).

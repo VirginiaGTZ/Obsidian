@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cómo registran ventas.md",
+                "file": "catálogo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cómo registran ventas"
+              "title": "catálogo"
             }
           }
         ]
@@ -180,12 +180,14 @@
   },
   "active": "7866e1c712769a94",
   "lastOpenFiles": [
-    "Cómo controlan inventario.md",
-    "Cómo registran ventas.md",
-    "Cómo se comunican con clientes..md",
-    "Pasted image 20250827230130.png",
-    "Pasted image 20250827230206.png",
     "pitch-jam/Plan de Trabajo para Pitch Jam.md",
+    "catálogo.md",
+    "Pasted image 20250827230206.png",
+    "Pasted image 20250827230130.png",
+    "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
+    "Cómo registran ventas.md",
+    "Cómo controlan inventario.md",
+    "Cómo se comunican con clientes..md",
     "pitch-jam/Pitch Jam.md",
     "pitch-jam"
   ]
