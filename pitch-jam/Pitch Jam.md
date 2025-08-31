@@ -13,7 +13,7 @@ Con esta integración ustedes no solo siguen cobrando y atendiendo como siempre,
 Este es el [[Plan de Trabajo para Pitch Jam|plan de trabajo]]
 ### Análisis
 ### Diseño
-- [[Otras Refaccionarias]]
+- [[Diseño de Refaccionarias|Inspiracion]].
 Wireframes de Pitch Jam
 
 
