@@ -1,5 +1,5 @@
 # Plan de Trabajo
-## Fase 1: Análisis (2–3 días)
+## Fase 1: [[Plan de Trabajo para Pitch Jam]]Análisis (2–3 días)
 **Objetivo:** comprender las necesidades del negocio y definir alcance mínimo viable.
 **Tareas:**
 1. Reunión inicial con el dueño de la refaccionaria:

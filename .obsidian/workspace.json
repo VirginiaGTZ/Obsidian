@@ -11,14 +11,14 @@
             "id": "7866e1c712769a94",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "pitch-jam/Plan de Trabajo para Pitch Jam.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Plan de Trabajo para Pitch Jam"
             }
           }
         ]
@@ -180,19 +180,19 @@
   },
   "active": "7866e1c712769a94",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
-    "Cómo se comunican con clientes..md",
-    "Cómo registran ventas.md",
+    "pitch-jam/Pitch Jam.md",
     "Cómo controlan inventario.md",
+    "Cómo registran ventas.md",
+    "Cómo se comunican con clientes..md",
+    "Otras Refaccionarias.md",
+    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
+    "conflict-files-obsidian-git.md",
     "catálogo.md",
     "Pasted image 20250827230206.png",
     "Pasted image 20250827230130.png",
-    "Otras Refaccionarias.md",
     "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
     "ERP.md",
     "CRM.md",
-    "pitch-jam/Pitch Jam.md",
     "pitch-jam"
   ]
 }
