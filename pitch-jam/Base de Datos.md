@@ -13,7 +13,7 @@ Tabla de Refacciones:
 |     |                      |             |             |             |             |                                                      |          |             |
 
 Tabla de servicios:
-joto el que lo lea
+
 
 | ID  | Nombre |     |
 | --- | ------ | --- |
