@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce6a5bb9817a683",
+        "id": "a4ecfe495a09e749",
         "type": "tabs",
         "children": [
           {
-            "id": "bb680784923d6fff",
+            "id": "543560c416816063",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Base de Datos"
+            }
+          },
+          {
+            "id": "919af5cf1c9d7331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "catálogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "catálogo"
             }
           }
         ]
@@ -167,7 +181,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -175,27 +188,26 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "64df71147f573316",
+  "active": "543560c416816063",
   "lastOpenFiles": [
+    "catálogo.md",
     "pitch-jam/Base de Datos.md",
-    "conflict-files-obsidian-git.md",
     "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
+    "ERP.md",
+    "conflict-files-obsidian-git.md",
+    "Cómo se comunican con clientes..md",
+    "Cómo registran ventas.md",
+    "Cómo controlan inventario.md",
+    "pitch-jam/Pitch Jam.md",
+    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
+    "Otras Refaccionarias.md",
+    "CRM.md",
     "Pasted image 20250827230206.png",
     "Pasted image 20250827230130.png",
-    "Otras Refaccionarias.md",
-    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
-    "catálogo.md",
-    "Cómo controlan inventario.md",
-    "Cómo registran ventas.md",
-    "Cómo se comunican con clientes..md",
-    "Excalidraw/Drawing 2025-09-02 11.25.29.excalidraw.md",
-    "Excalidraw",
-    "pitch-jam/Pitch Jam.md",
-    "ERP.md",
-    "CRM.md",
     "pitch-jam"
   ]
 }
