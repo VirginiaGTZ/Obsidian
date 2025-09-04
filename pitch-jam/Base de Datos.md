@@ -11,3 +11,9 @@ Tabla de Refacciones:
 |     | °\ Busqueda          | °\ Busqueda | °\ Busqueda | °\ Busqueda | °\ Busqueda | °\ Busqueda                                          |          |             |
 | 1   | AHOGADOR ELECTRONICO | KMOTO       | 1500        | Dupont      | 500         | CS125 - GS150 - WS150 - WS150 SPORT - DS150 - GTS175 | https:// | 150         |
 |     |                      |             |             |             |             |                                                      |          |             |
+
+Tabla de servicios:
+
+| ID  | Nombre |     |
+| --- | ------ | --- |
+|     |        |     |
