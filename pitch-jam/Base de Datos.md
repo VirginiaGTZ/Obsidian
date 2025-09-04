@@ -38,7 +38,7 @@ Tabla de usuarios:
 |     | oscar  |       |        |          | 1     |
 tabla tarjeta
 
-| Id  | correo | numero de tarjeta | titular | vencimiento | codigo |
-| --- | ------ | ----------------- | ------- | ----------- | ------ |
-|     |        |                   |         |             |        |
+| Id  | correo | numero de tarjeta | titular       | vencimiento | codigo |
+| --- | ------ | ----------------- | ------------- | ----------- | ------ |
+|     |        |                   | pepe zarrabal |             |        |
 pedidos (carrito)
