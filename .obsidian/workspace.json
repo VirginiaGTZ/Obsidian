@@ -11,14 +11,12 @@
             "id": "7866e1c712769a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "pitch-jam/Plan de Trabajo para Pitch Jam.md",
-                "mode": "source",
-                "source": false
+                "file": "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Plan de Trabajo para Pitch Jam"
+              "icon": "lucide-file-text",
+              "title": "LISTA DE PRECIOS SUCURSALES 05-05-2025"
             }
           }
         ]
@@ -180,19 +178,19 @@
   },
   "active": "7866e1c712769a94",
   "lastOpenFiles": [
+    "Pasted image 20250827230206.png",
+    "Pasted image 20250827230130.png",
+    "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
+    "Otras Refaccionarias.md",
+    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
     "catálogo.md",
     "Cómo controlan inventario.md",
     "Cómo registran ventas.md",
     "Cómo se comunican con clientes..md",
     "Excalidraw/Drawing 2025-09-02 11.25.29.excalidraw.md",
-    "pitch-jam/Plan de Trabajo para Pitch Jam.md",
     "Excalidraw",
     "pitch-jam/Pitch Jam.md",
-    "Otras Refaccionarias.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20250827230206.png",
-    "Pasted image 20250827230130.png",
-    "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
     "ERP.md",
     "CRM.md",
     "pitch-jam"
