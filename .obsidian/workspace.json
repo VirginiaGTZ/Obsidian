@@ -11,10 +11,14 @@
             "id": "9aca9cc6c295aa1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cómo registran ventas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Cómo registran ventas"
             }
           }
         ]
@@ -174,18 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd4710adb8dd6bd",
+  "active": "9aca9cc6c295aa1c",
   "lastOpenFiles": [
+    "Sistema Eleventa.pdf",
+    "Cómo controlan inventario.md",
+    "CRM.md",
+    "ERP.md",
+    "Cómo registran ventas.md",
+    "pitch-jam/Base de Datos.md",
     "Imagenes/Logotipo e Imágenes.md",
     "g546confondo.png",
     "pitch-jam/Plan de Trabajo para Pitch Jam.md",
     "Imagenes",
     "catálogo.md",
     "conflict-files-obsidian-git.md",
-    "pitch-jam/Base de Datos.md",
     "Cómo se comunican con clientes..md",
-    "Cómo registran ventas.md",
-    "Cómo controlan inventario.md",
     "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
     "Pasted image 20250827230206.png",
     "Pasted image 20250827230130.png",
@@ -193,8 +200,6 @@
     "Excalidraw/Drawing 2025-09-02 11.25.29.excalidraw.md",
     "Excalidraw",
     "pitch-jam/Pitch Jam.md",
-    "ERP.md",
-    "CRM.md",
     "pitch-jam"
   ]
 }

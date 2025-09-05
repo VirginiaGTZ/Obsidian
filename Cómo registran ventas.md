@@ -13,3 +13,4 @@ Se cuenta con un sistema llamado eleventa en su modalidad gratuita, éste al ini
 ° Informes semanales, mensuales, y anuales.
 
 Sin embargo el sistema ya no funciona correctamente.
+![[Sistema Eleventa.pdf]] 
