@@ -1,1 +1,1 @@
-![[g546confondo.png]] 
+Aquí van las imágenes
