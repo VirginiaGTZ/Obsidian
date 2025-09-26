@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pitch-jam/Base de Datos.md",
+                "file": "Imagenes/Logotipo e Imágenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base de Datos"
+              "title": "Logotipo e Imágenes"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "9aca9cc6c295aa1c",
   "lastOpenFiles": [
+    "pitch-jam/Pitch Jam.md",
+    "pitch-jam/Base de Datos.md",
     "Imagenes/Logotipo e Imágenes.md",
     "LISTA DE PRECIOS SUCURSALES 05-05-2025.pdf",
     "Otras Refaccionarias.md",
@@ -191,7 +193,6 @@
     "Cómo controlan inventario.md",
     "CRM.md",
     "ERP.md",
-    "pitch-jam/Base de Datos.md",
     "pitch-jam/Plan de Trabajo para Pitch Jam.md",
     "Imagenes",
     "catálogo.md",
@@ -199,7 +200,6 @@
     "Cómo se comunican con clientes..md",
     "Excalidraw/Drawing 2025-09-02 11.25.29.excalidraw.md",
     "Excalidraw",
-    "pitch-jam/Pitch Jam.md",
     "pitch-jam"
   ]
 }
